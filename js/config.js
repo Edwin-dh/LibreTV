@@ -67,6 +67,10 @@ const API_SITES = {
         api: 'https://bfzyapi.com',
         name: '暴风资源',
     },
+    zxzjhd: {
+        api: 'https://www.zxzjhd.com',
+        name: '暴风',
+    },
     mozhua: {
         api: 'https://mozhuazy.com',
         name: '魔爪资源',
@@ -114,16 +118,10 @@ const API_SITES = {
         api: 'https://api.zuidapi.com',
         name: '最大资源'
     },
-            zxzjhd: {
-        api: 'https://www.zxzjhd.com/',
-        name: '是是谁',
-                    }，
     yutu: {
         api: 'https://yutuzy10.com',
         name: '玉兔资源',
         adult: true
-
-
 };    // 您可以按需添加更多源
 
 // 添加聚合搜索的配置选项
