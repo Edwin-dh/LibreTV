@@ -39,7 +39,7 @@ const API_SITES = {
     },
         yinghezhinan: {
         api: 'https://yinghezhinan.com',
-        name: 'yinghezhinan',
+        name: '111',
         adult: true
     },
     ckzy: {
