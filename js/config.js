@@ -38,8 +38,8 @@ const API_SITES = {
         name: '天涯资源',
     },
         yinghezhinan: {
-        api: 'https://yinghezhinan.com',
-        name: '111',
+        api: 'https://xl01.com.de',
+        name: 'xl01',
         adult: true
     },
     ckzy: {
