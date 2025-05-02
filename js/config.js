@@ -40,6 +40,7 @@ const API_SITES = {
         xl01: {
         api: 'https://xl01.com.de',
         name: '文件',
+               adult: true
     },
     ckzy: {
         api: 'https://www.ckzy1.com',
