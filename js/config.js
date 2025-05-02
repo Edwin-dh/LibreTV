@@ -23,7 +23,7 @@ const SITE_CONFIG = {
 const API_SITES = {
     heimuer: {
         api: 'https://json.heimuer.xyz',
-        name: '黑木耳',
+        name: 雨季',
         detail: 'https://heimuer.tv',
         filterAdRule: '#EXT-X-DISCONTINUITY\\n#EXTINF:\\d+\\.\\d+,\\n.*?\\n#EXT-X-DISCONTINUITY'
     },
