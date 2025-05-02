@@ -39,8 +39,8 @@ const API_SITES = {
     },
         zxzjhd: {
         api: 'https://www.zxzjhd.com/',
-        name: 'zxzjhd',
-               adult: true
+        name: '是是谁',
+        adult: true
     },
     ckzy: {
         api: 'https://www.ckzy1.com',
