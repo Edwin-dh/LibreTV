@@ -23,7 +23,7 @@ const SITE_CONFIG = {
 const API_SITES = {
     heimuer: {
         api: 'https://json.heimuer.xyz',
-        name: '黑御',
+        name: '黑木耳',
         detail: 'https://heimuer.tv',
         filterAdRule: '#EXT-X-DISCONTINUITY\\n#EXTINF:\\d+\\.\\d+,\\n.*?\\n#EXT-X-DISCONTINUITY'
     },
@@ -66,10 +66,6 @@ const API_SITES = {
     bfzy: {
         api: 'https://bfzyapi.com',
         name: '暴风资源',
-    },
-    zxzjhd: {
-        api: 'https://www.zxzjhd.com',
-        name: '暴风',
     },
     mozhua: {
         api: 'https://mozhuazy.com',
@@ -122,7 +118,9 @@ const API_SITES = {
         api: 'https://yutuzy10.com',
         name: '玉兔资源',
         adult: true
-};    // 您可以按需添加更多源
+    }
+    // 您可以按需添加更多源
+};
 
 // 添加聚合搜索的配置选项
 const AGGREGATED_SEARCH_CONFIG = {
