@@ -23,7 +23,7 @@ const SITE_CONFIG = {
 const API_SITES = {
     heimuer: {
         api: 'https://json.heimuer.xyz',
-        name: '黑yu',
+        name: '黑御',
         detail: 'https://heimuer.tv',
         filterAdRule: '#EXT-X-DISCONTINUITY\\n#EXTINF:\\d+\\.\\d+,\\n.*?\\n#EXT-X-DISCONTINUITY'
     },
@@ -36,6 +36,10 @@ const API_SITES = {
     tyyszy: {
         api: 'https://tyyszy.com',
         name: '天涯资源',
+    },
+        tyyszy: {
+        api: 'https://libvio.vip/',
+        name: 'libvio',
     },
     ckzy: {
         api: 'https://www.ckzy1.com',
