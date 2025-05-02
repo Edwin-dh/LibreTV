@@ -38,7 +38,7 @@ const API_SITES = {
         name: '天涯资源',
     },
         xl01: {
-        api: 'https://xl01.com.de',
+        api: 'https://www.zxzjhd.com/',
         name: '文件',
                adult: true
     },
