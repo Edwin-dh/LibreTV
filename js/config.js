@@ -37,11 +37,6 @@ const API_SITES = {
         api: 'https://tyyszy.com',
         name: '天涯资源',
     },
-        zxzjhd: {
-        api: 'https://www.zxzjhd.com/',
-        name: '是是谁',
-        adult: true
-    },
     ckzy: {
         api: 'https://www.ckzy1.com',
         name: 'CK资源',
@@ -124,6 +119,9 @@ const API_SITES = {
         name: '玉兔资源',
         adult: true
     }
+            zxzjhd: {
+        api: 'https://www.zxzjhd.com/',
+        name: '是是谁',
     // 您可以按需添加更多源
 };
 
