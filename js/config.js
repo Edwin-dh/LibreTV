@@ -38,7 +38,7 @@ const API_SITES = {
         name: '天涯资源',
     },
         tyyszy: {
-        api: 'https://libvio.vip/',
+        api: 'https://www.zxzjhd.com/?ref=yinghe.xyz',
         name: 'libvio',
     },
     ckzy: {
