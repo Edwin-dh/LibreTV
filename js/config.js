@@ -37,9 +37,9 @@ const API_SITES = {
         api: 'https://tyyszy.com',
         name: '天涯资源',
     },
-        xl01: {
+        zxzjhd: {
         api: 'https://www.zxzjhd.com/',
-        name: '文件',
+        name: 'zxzjhd',
                adult: true
     },
     ckzy: {
