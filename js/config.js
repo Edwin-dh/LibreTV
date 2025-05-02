@@ -23,7 +23,7 @@ const SITE_CONFIG = {
 const API_SITES = {
     heimuer: {
         api: 'https://json.heimuer.xyz',
-        name: '黑木耳',
+        name: '黑画',
         detail: 'https://heimuer.tv',
         filterAdRule: '#EXT-X-DISCONTINUITY\\n#EXTINF:\\d+\\.\\d+,\\n.*?\\n#EXT-X-DISCONTINUITY'
     },
@@ -51,6 +51,10 @@ const API_SITES = {
         name: '卧龙资源',
     },
     hwba: {
+        api: 'https://cjwba.com',
+        name: '华为吧资源',
+    },
+        hwba: {
         api: 'https://cjwba.com',
         name: '华为吧资源',
     },
